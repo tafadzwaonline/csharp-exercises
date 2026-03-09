@@ -1,0 +1,14 @@
+C:\Systems\Pathway\Coding\week01\Exercise2\bin\Debug\net8.0\Exercise2.exe
+C:\Systems\Pathway\Coding\week01\Exercise2\bin\Debug\net8.0\Exercise2.deps.json
+C:\Systems\Pathway\Coding\week01\Exercise2\bin\Debug\net8.0\Exercise2.runtimeconfig.json
+C:\Systems\Pathway\Coding\week01\Exercise2\bin\Debug\net8.0\Exercise2.dll
+C:\Systems\Pathway\Coding\week01\Exercise2\bin\Debug\net8.0\Exercise2.pdb
+C:\Systems\Pathway\Coding\week01\Exercise2\obj\Debug\net8.0\Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Systems\Pathway\Coding\week01\Exercise2\obj\Debug\net8.0\Exercise2.AssemblyInfoInputs.cache
+C:\Systems\Pathway\Coding\week01\Exercise2\obj\Debug\net8.0\Exercise2.AssemblyInfo.cs
+C:\Systems\Pathway\Coding\week01\Exercise2\obj\Debug\net8.0\Exercise2.csproj.CoreCompileInputs.cache
+C:\Systems\Pathway\Coding\week01\Exercise2\obj\Debug\net8.0\Exercise2.dll
+C:\Systems\Pathway\Coding\week01\Exercise2\obj\Debug\net8.0\refint\Exercise2.dll
+C:\Systems\Pathway\Coding\week01\Exercise2\obj\Debug\net8.0\Exercise2.pdb
+C:\Systems\Pathway\Coding\week01\Exercise2\obj\Debug\net8.0\Exercise2.genruntimeconfig.cache
+C:\Systems\Pathway\Coding\week01\Exercise2\obj\Debug\net8.0\ref\Exercise2.dll

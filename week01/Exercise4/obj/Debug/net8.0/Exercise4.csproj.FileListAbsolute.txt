@@ -1,0 +1,14 @@
+C:\Systems\Pathway\Coding\week01\Exercise4\obj\Debug\net8.0\Exercise4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Systems\Pathway\Coding\week01\Exercise4\obj\Debug\net8.0\Exercise4.AssemblyInfoInputs.cache
+C:\Systems\Pathway\Coding\week01\Exercise4\obj\Debug\net8.0\Exercise4.AssemblyInfo.cs
+C:\Systems\Pathway\Coding\week01\Exercise4\obj\Debug\net8.0\Exercise4.csproj.CoreCompileInputs.cache
+C:\Systems\Pathway\Coding\week01\Exercise4\obj\Debug\net8.0\Exercise4.dll
+C:\Systems\Pathway\Coding\week01\Exercise4\obj\Debug\net8.0\refint\Exercise4.dll
+C:\Systems\Pathway\Coding\week01\Exercise4\obj\Debug\net8.0\Exercise4.pdb
+C:\Systems\Pathway\Coding\week01\Exercise4\bin\Debug\net8.0\Exercise4.exe
+C:\Systems\Pathway\Coding\week01\Exercise4\bin\Debug\net8.0\Exercise4.deps.json
+C:\Systems\Pathway\Coding\week01\Exercise4\bin\Debug\net8.0\Exercise4.runtimeconfig.json
+C:\Systems\Pathway\Coding\week01\Exercise4\bin\Debug\net8.0\Exercise4.dll
+C:\Systems\Pathway\Coding\week01\Exercise4\bin\Debug\net8.0\Exercise4.pdb
+C:\Systems\Pathway\Coding\week01\Exercise4\obj\Debug\net8.0\Exercise4.genruntimeconfig.cache
+C:\Systems\Pathway\Coding\week01\Exercise4\obj\Debug\net8.0\ref\Exercise4.dll

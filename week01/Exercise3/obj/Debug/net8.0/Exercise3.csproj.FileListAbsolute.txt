@@ -1,0 +1,14 @@
+C:\Systems\Pathway\Coding\week01\Exercise3\bin\Debug\net8.0\Exercise3.exe
+C:\Systems\Pathway\Coding\week01\Exercise3\bin\Debug\net8.0\Exercise3.deps.json
+C:\Systems\Pathway\Coding\week01\Exercise3\bin\Debug\net8.0\Exercise3.runtimeconfig.json
+C:\Systems\Pathway\Coding\week01\Exercise3\bin\Debug\net8.0\Exercise3.dll
+C:\Systems\Pathway\Coding\week01\Exercise3\bin\Debug\net8.0\Exercise3.pdb
+C:\Systems\Pathway\Coding\week01\Exercise3\obj\Debug\net8.0\Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Systems\Pathway\Coding\week01\Exercise3\obj\Debug\net8.0\Exercise3.AssemblyInfoInputs.cache
+C:\Systems\Pathway\Coding\week01\Exercise3\obj\Debug\net8.0\Exercise3.AssemblyInfo.cs
+C:\Systems\Pathway\Coding\week01\Exercise3\obj\Debug\net8.0\Exercise3.csproj.CoreCompileInputs.cache
+C:\Systems\Pathway\Coding\week01\Exercise3\obj\Debug\net8.0\Exercise3.dll
+C:\Systems\Pathway\Coding\week01\Exercise3\obj\Debug\net8.0\refint\Exercise3.dll
+C:\Systems\Pathway\Coding\week01\Exercise3\obj\Debug\net8.0\Exercise3.pdb
+C:\Systems\Pathway\Coding\week01\Exercise3\obj\Debug\net8.0\Exercise3.genruntimeconfig.cache
+C:\Systems\Pathway\Coding\week01\Exercise3\obj\Debug\net8.0\ref\Exercise3.dll

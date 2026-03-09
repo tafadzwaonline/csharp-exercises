@@ -1,0 +1,14 @@
+C:\Systems\Pathway\Coding\week01\Exercise5\bin\Debug\net8.0\Exercise5.exe
+C:\Systems\Pathway\Coding\week01\Exercise5\bin\Debug\net8.0\Exercise5.deps.json
+C:\Systems\Pathway\Coding\week01\Exercise5\bin\Debug\net8.0\Exercise5.runtimeconfig.json
+C:\Systems\Pathway\Coding\week01\Exercise5\bin\Debug\net8.0\Exercise5.dll
+C:\Systems\Pathway\Coding\week01\Exercise5\bin\Debug\net8.0\Exercise5.pdb
+C:\Systems\Pathway\Coding\week01\Exercise5\obj\Debug\net8.0\Exercise5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Systems\Pathway\Coding\week01\Exercise5\obj\Debug\net8.0\Exercise5.AssemblyInfoInputs.cache
+C:\Systems\Pathway\Coding\week01\Exercise5\obj\Debug\net8.0\Exercise5.AssemblyInfo.cs
+C:\Systems\Pathway\Coding\week01\Exercise5\obj\Debug\net8.0\Exercise5.csproj.CoreCompileInputs.cache
+C:\Systems\Pathway\Coding\week01\Exercise5\obj\Debug\net8.0\Exercise5.dll
+C:\Systems\Pathway\Coding\week01\Exercise5\obj\Debug\net8.0\refint\Exercise5.dll
+C:\Systems\Pathway\Coding\week01\Exercise5\obj\Debug\net8.0\Exercise5.pdb
+C:\Systems\Pathway\Coding\week01\Exercise5\obj\Debug\net8.0\Exercise5.genruntimeconfig.cache
+C:\Systems\Pathway\Coding\week01\Exercise5\obj\Debug\net8.0\ref\Exercise5.dll
