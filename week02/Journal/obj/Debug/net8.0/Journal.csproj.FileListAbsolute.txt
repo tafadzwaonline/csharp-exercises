@@ -1,0 +1,15 @@
+C:\Systems\Pathway\Coding\week02\Journal\bin\Debug\net8.0\Journal.exe
+C:\Systems\Pathway\Coding\week02\Journal\bin\Debug\net8.0\Journal.deps.json
+C:\Systems\Pathway\Coding\week02\Journal\bin\Debug\net8.0\Journal.runtimeconfig.json
+C:\Systems\Pathway\Coding\week02\Journal\bin\Debug\net8.0\Journal.dll
+C:\Systems\Pathway\Coding\week02\Journal\bin\Debug\net8.0\Journal.pdb
+C:\Systems\Pathway\Coding\week02\Journal\obj\Debug\net8.0\Journal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Systems\Pathway\Coding\week02\Journal\obj\Debug\net8.0\Journal.AssemblyInfoInputs.cache
+C:\Systems\Pathway\Coding\week02\Journal\obj\Debug\net8.0\Journal.AssemblyInfo.cs
+C:\Systems\Pathway\Coding\week02\Journal\obj\Debug\net8.0\Journal.csproj.CoreCompileInputs.cache
+C:\Systems\Pathway\Coding\week02\Journal\obj\Debug\net8.0\Journal.sourcelink.json
+C:\Systems\Pathway\Coding\week02\Journal\obj\Debug\net8.0\Journal.dll
+C:\Systems\Pathway\Coding\week02\Journal\obj\Debug\net8.0\refint\Journal.dll
+C:\Systems\Pathway\Coding\week02\Journal\obj\Debug\net8.0\Journal.pdb
+C:\Systems\Pathway\Coding\week02\Journal\obj\Debug\net8.0\Journal.genruntimeconfig.cache
+C:\Systems\Pathway\Coding\week02\Journal\obj\Debug\net8.0\ref\Journal.dll
