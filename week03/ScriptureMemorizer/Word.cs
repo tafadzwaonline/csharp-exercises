@@ -23,7 +23,11 @@ public class Word
     {
         if (_isHidden)
         {
-            return new string('_', _text.Length);
+            char[] hiddenCharacters = _text
+                .Select(character => char.IsLetter(character) ? '_' : character)
+                .ToArray();
+
+            return new string(hiddenCharacters);
         }
 
         return _text;

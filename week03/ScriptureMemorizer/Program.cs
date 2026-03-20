@@ -5,7 +5,7 @@ class Program
 {
     static void Main()
     {
-    
+        
         List<Scripture> scriptures = CreateScriptureLibrary();
         Scripture scripture = scriptures[Random.Shared.Next(scriptures.Count)];
 
