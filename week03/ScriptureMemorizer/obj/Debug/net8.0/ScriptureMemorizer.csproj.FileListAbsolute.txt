@@ -1,0 +1,15 @@
+C:\Systems\Pathway\Coding\week03\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.exe
+C:\Systems\Pathway\Coding\week03\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.deps.json
+C:\Systems\Pathway\Coding\week03\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.runtimeconfig.json
+C:\Systems\Pathway\Coding\week03\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.dll
+C:\Systems\Pathway\Coding\week03\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.pdb
+C:\Systems\Pathway\Coding\week03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Systems\Pathway\Coding\week03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.AssemblyInfoInputs.cache
+C:\Systems\Pathway\Coding\week03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.AssemblyInfo.cs
+C:\Systems\Pathway\Coding\week03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.csproj.CoreCompileInputs.cache
+C:\Systems\Pathway\Coding\week03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.sourcelink.json
+C:\Systems\Pathway\Coding\week03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.dll
+C:\Systems\Pathway\Coding\week03\ScriptureMemorizer\obj\Debug\net8.0\refint\ScriptureMemorizer.dll
+C:\Systems\Pathway\Coding\week03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.pdb
+C:\Systems\Pathway\Coding\week03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.genruntimeconfig.cache
+C:\Systems\Pathway\Coding\week03\ScriptureMemorizer\obj\Debug\net8.0\ref\ScriptureMemorizer.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5R59IQignrU=",
+  "success": true,
+  "projectFilePath": "C:\\Systems\\Pathway\\Coding\\week03\\ScriptureMemorizer\\ScriptureMemorizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ÀDMIN\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\ÀDMIN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\ÀDMIN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\ÀDMIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.25\\microsoft.netcore.app.host.win-x64.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
