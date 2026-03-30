@@ -1,0 +1,15 @@
+C:\Systems\Pathway\Coding\week04\OnlineOrdering\obj\Debug\net8.0\OnlineOrdering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Systems\Pathway\Coding\week04\OnlineOrdering\obj\Debug\net8.0\OnlineOrdering.AssemblyInfoInputs.cache
+C:\Systems\Pathway\Coding\week04\OnlineOrdering\obj\Debug\net8.0\OnlineOrdering.AssemblyInfo.cs
+C:\Systems\Pathway\Coding\week04\OnlineOrdering\obj\Debug\net8.0\OnlineOrdering.csproj.CoreCompileInputs.cache
+C:\Systems\Pathway\Coding\week04\OnlineOrdering\obj\Debug\net8.0\OnlineOrdering.sourcelink.json
+C:\Systems\Pathway\Coding\week04\OnlineOrdering\obj\Debug\net8.0\OnlineOrdering.dll
+C:\Systems\Pathway\Coding\week04\OnlineOrdering\obj\Debug\net8.0\refint\OnlineOrdering.dll
+C:\Systems\Pathway\Coding\week04\OnlineOrdering\obj\Debug\net8.0\OnlineOrdering.pdb
+C:\Systems\Pathway\Coding\week04\OnlineOrdering\bin\Debug\net8.0\OnlineOrdering.exe
+C:\Systems\Pathway\Coding\week04\OnlineOrdering\bin\Debug\net8.0\OnlineOrdering.deps.json
+C:\Systems\Pathway\Coding\week04\OnlineOrdering\bin\Debug\net8.0\OnlineOrdering.runtimeconfig.json
+C:\Systems\Pathway\Coding\week04\OnlineOrdering\bin\Debug\net8.0\OnlineOrdering.dll
+C:\Systems\Pathway\Coding\week04\OnlineOrdering\bin\Debug\net8.0\OnlineOrdering.pdb
+C:\Systems\Pathway\Coding\week04\OnlineOrdering\obj\Debug\net8.0\OnlineOrdering.genruntimeconfig.cache
+C:\Systems\Pathway\Coding\week04\OnlineOrdering\obj\Debug\net8.0\ref\OnlineOrdering.dll
