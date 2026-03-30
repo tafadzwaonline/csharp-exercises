@@ -1,0 +1,15 @@
+C:\Systems\Pathway\Coding\week04\YouTubeVideos\obj\Debug\net8.0\YouTubeVideos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Systems\Pathway\Coding\week04\YouTubeVideos\obj\Debug\net8.0\YouTubeVideos.AssemblyInfoInputs.cache
+C:\Systems\Pathway\Coding\week04\YouTubeVideos\obj\Debug\net8.0\YouTubeVideos.AssemblyInfo.cs
+C:\Systems\Pathway\Coding\week04\YouTubeVideos\obj\Debug\net8.0\YouTubeVideos.csproj.CoreCompileInputs.cache
+C:\Systems\Pathway\Coding\week04\YouTubeVideos\obj\Debug\net8.0\YouTubeVideos.sourcelink.json
+C:\Systems\Pathway\Coding\week04\YouTubeVideos\obj\Debug\net8.0\YouTubeVideos.dll
+C:\Systems\Pathway\Coding\week04\YouTubeVideos\obj\Debug\net8.0\refint\YouTubeVideos.dll
+C:\Systems\Pathway\Coding\week04\YouTubeVideos\obj\Debug\net8.0\YouTubeVideos.pdb
+C:\Systems\Pathway\Coding\week04\YouTubeVideos\bin\Debug\net8.0\YouTubeVideos.exe
+C:\Systems\Pathway\Coding\week04\YouTubeVideos\bin\Debug\net8.0\YouTubeVideos.deps.json
+C:\Systems\Pathway\Coding\week04\YouTubeVideos\bin\Debug\net8.0\YouTubeVideos.runtimeconfig.json
+C:\Systems\Pathway\Coding\week04\YouTubeVideos\bin\Debug\net8.0\YouTubeVideos.dll
+C:\Systems\Pathway\Coding\week04\YouTubeVideos\bin\Debug\net8.0\YouTubeVideos.pdb
+C:\Systems\Pathway\Coding\week04\YouTubeVideos\obj\Debug\net8.0\YouTubeVideos.genruntimeconfig.cache
+C:\Systems\Pathway\Coding\week04\YouTubeVideos\obj\Debug\net8.0\ref\YouTubeVideos.dll
