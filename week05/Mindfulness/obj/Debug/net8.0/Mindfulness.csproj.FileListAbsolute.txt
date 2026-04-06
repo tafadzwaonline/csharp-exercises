@@ -1,0 +1,15 @@
+C:\Systems\Assignments\csharp-exercises\week05\Mindfulness\bin\Debug\net8.0\Mindfulness.exe
+C:\Systems\Assignments\csharp-exercises\week05\Mindfulness\bin\Debug\net8.0\Mindfulness.deps.json
+C:\Systems\Assignments\csharp-exercises\week05\Mindfulness\bin\Debug\net8.0\Mindfulness.runtimeconfig.json
+C:\Systems\Assignments\csharp-exercises\week05\Mindfulness\bin\Debug\net8.0\Mindfulness.dll
+C:\Systems\Assignments\csharp-exercises\week05\Mindfulness\bin\Debug\net8.0\Mindfulness.pdb
+C:\Systems\Assignments\csharp-exercises\week05\Mindfulness\obj\Debug\net8.0\Mindfulness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Systems\Assignments\csharp-exercises\week05\Mindfulness\obj\Debug\net8.0\Mindfulness.AssemblyInfoInputs.cache
+C:\Systems\Assignments\csharp-exercises\week05\Mindfulness\obj\Debug\net8.0\Mindfulness.AssemblyInfo.cs
+C:\Systems\Assignments\csharp-exercises\week05\Mindfulness\obj\Debug\net8.0\Mindfulness.csproj.CoreCompileInputs.cache
+C:\Systems\Assignments\csharp-exercises\week05\Mindfulness\obj\Debug\net8.0\Mindfulness.sourcelink.json
+C:\Systems\Assignments\csharp-exercises\week05\Mindfulness\obj\Debug\net8.0\Mindfulness.dll
+C:\Systems\Assignments\csharp-exercises\week05\Mindfulness\obj\Debug\net8.0\refint\Mindfulness.dll
+C:\Systems\Assignments\csharp-exercises\week05\Mindfulness\obj\Debug\net8.0\Mindfulness.pdb
+C:\Systems\Assignments\csharp-exercises\week05\Mindfulness\obj\Debug\net8.0\Mindfulness.genruntimeconfig.cache
+C:\Systems\Assignments\csharp-exercises\week05\Mindfulness\obj\Debug\net8.0\ref\Mindfulness.dll
