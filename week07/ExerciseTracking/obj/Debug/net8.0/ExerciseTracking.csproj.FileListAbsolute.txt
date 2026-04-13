@@ -1,0 +1,15 @@
+C:\Systems\Pathway\Coding\week07\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.exe
+C:\Systems\Pathway\Coding\week07\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.deps.json
+C:\Systems\Pathway\Coding\week07\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.runtimeconfig.json
+C:\Systems\Pathway\Coding\week07\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.dll
+C:\Systems\Pathway\Coding\week07\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.pdb
+C:\Systems\Pathway\Coding\week07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Systems\Pathway\Coding\week07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.AssemblyInfoInputs.cache
+C:\Systems\Pathway\Coding\week07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.AssemblyInfo.cs
+C:\Systems\Pathway\Coding\week07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.csproj.CoreCompileInputs.cache
+C:\Systems\Pathway\Coding\week07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.sourcelink.json
+C:\Systems\Pathway\Coding\week07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.dll
+C:\Systems\Pathway\Coding\week07\ExerciseTracking\obj\Debug\net8.0\refint\ExerciseTracking.dll
+C:\Systems\Pathway\Coding\week07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.pdb
+C:\Systems\Pathway\Coding\week07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.genruntimeconfig.cache
+C:\Systems\Pathway\Coding\week07\ExerciseTracking\obj\Debug\net8.0\ref\ExerciseTracking.dll
