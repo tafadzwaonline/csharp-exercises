@@ -1,0 +1,15 @@
+C:\Systems\Pathway\Coding\week06\EternalQuest\bin\Debug\net8.0\EternalQuest.exe
+C:\Systems\Pathway\Coding\week06\EternalQuest\bin\Debug\net8.0\EternalQuest.deps.json
+C:\Systems\Pathway\Coding\week06\EternalQuest\bin\Debug\net8.0\EternalQuest.runtimeconfig.json
+C:\Systems\Pathway\Coding\week06\EternalQuest\bin\Debug\net8.0\EternalQuest.dll
+C:\Systems\Pathway\Coding\week06\EternalQuest\bin\Debug\net8.0\EternalQuest.pdb
+C:\Systems\Pathway\Coding\week06\EternalQuest\obj\Debug\net8.0\EternalQuest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Systems\Pathway\Coding\week06\EternalQuest\obj\Debug\net8.0\EternalQuest.AssemblyInfoInputs.cache
+C:\Systems\Pathway\Coding\week06\EternalQuest\obj\Debug\net8.0\EternalQuest.AssemblyInfo.cs
+C:\Systems\Pathway\Coding\week06\EternalQuest\obj\Debug\net8.0\EternalQuest.csproj.CoreCompileInputs.cache
+C:\Systems\Pathway\Coding\week06\EternalQuest\obj\Debug\net8.0\EternalQuest.sourcelink.json
+C:\Systems\Pathway\Coding\week06\EternalQuest\obj\Debug\net8.0\EternalQuest.dll
+C:\Systems\Pathway\Coding\week06\EternalQuest\obj\Debug\net8.0\refint\EternalQuest.dll
+C:\Systems\Pathway\Coding\week06\EternalQuest\obj\Debug\net8.0\EternalQuest.pdb
+C:\Systems\Pathway\Coding\week06\EternalQuest\obj\Debug\net8.0\EternalQuest.genruntimeconfig.cache
+C:\Systems\Pathway\Coding\week06\EternalQuest\obj\Debug\net8.0\ref\EternalQuest.dll
